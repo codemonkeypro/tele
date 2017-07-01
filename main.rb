@@ -13,7 +13,7 @@ end
 
 require 'telegram/bot'
 
-TOKEN = ENV['bot425459205:AAFKH0d1SejXev0gIvSsKDvaqkZJo1MzIQE']
+TOKEN = ENV['425459205:AAFKH0d1SejXev0gIvSsKDvaqkZJo1MzIQE']
 
 # путь к файлу с ответами
 ANSWERS_FILE_PATH = "#{File.dirname(__FILE__)}/data/answers.txt"
